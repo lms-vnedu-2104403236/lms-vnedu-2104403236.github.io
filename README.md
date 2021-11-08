@@ -1,5 +1,5 @@
 # lms-vnedu-2104403236.github.io
-##### [ `Chiều Thứ 2  08/11/2021` Công nghệ, QP, Thể dục](https://lms-vnedu-2104403236.github.io/chieu20211108/README.md)
+##### [ `Chiều Thứ 2  08/11/2021` Công nghệ, QP, Thể dục](https://github.com/lms-vnedu-2104403236/lms-vnedu-2104403236.github.io/blob/main/chieu20211108/README.md)
 ##### [`Thứ 5 04/11/2021` Sinh học, Toán học, Vật Lý, Ngoại ngữ](https://mnha22.github.io/video-5b.gapo.vn/videos/results/ee428975-a2b1-46fb-8845-7d29da3ae613/480p/20211104.m3u8)
 ##### [`Thứ 4 03/11/2021` Ngữ văn, Ngữ văn, Địa lí, Tin học](https://mnha21.github.io/video-5b.gapo.vn/videos/results/3b002af6-f8d9-4e08-bd9b-0a47b94de91b/480p/20211103.m3u8)
 ##### [`Thứ 3 02/11/2021` Toán học, Hóa học](https://mnha08.github.io/video-5b.gapo.vn/videos/results/b89e19b5-ec78-45ea-97c8-0e290f530376/480p/20211102.m3u8)
